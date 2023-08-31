@@ -12,6 +12,6 @@ xhr.onload=function(){
         console.log("3 region:",data [i].region);
         console.log("4 sub_region:",data [i].subregion);
         console.log("5 population:",data [i].population);
-        //commit changes
+        //commit changes 
     }
 };l
